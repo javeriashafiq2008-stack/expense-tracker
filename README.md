@@ -1,4 +1,4 @@
-# Expense Tracker 💰
+# Expense Tracker 
 
 A full-stack Expense Tracker application where authenticated users can add, view, and delete their expenses.
 

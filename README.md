@@ -14,7 +14,7 @@ A full-stack Expense Tracker application where authenticated users can add, view
 ## Tech Stack
 - React
 - Redux Toolkit
-- Node.js / Express (if backend)
+- Node.js / Express 
 - MongoDB
 - Tailwind CSS
 
